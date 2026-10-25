@@ -4,6 +4,19 @@ Katalog belajar berbasis Java Servlet, JSP, dan JDBC. Pengunjung dapat membaca r
 
 Versi ini melanjutkan aplikasi **ServletLogin** dari folder Hololearn lama. Nama, warna plum, ilustrasi pegunungan, dan sebagian sampul dipertahankan. Struktur Eclipse dan koneksi database yang bergantung komputer lama diganti dengan Maven WAR serta Docker Compose.
 
+![Beranda Hololearn dengan navigasi dan tautan ke katalog e-book](docs/images/home.png)
+
+*Tangkapan demo lokal pada 25 Oktober 2026 dengan data contoh sintetis.*
+
+<details>
+<summary>Lihat pengelolaan katalog buku</summary>
+
+![Halaman admin Hololearn untuk menambah, mengubah, dan menghapus buku contoh](docs/images/admin-books.png)
+
+*Daftar buku contoh pada halaman Kelola data.*
+
+</details>
+
 ## Jalankan dengan Docker
 
 Siapkan Docker Desktop dengan Linux containers dan Docker Compose. Java, Maven, dan MySQL tidak perlu dipasang di Windows untuk cara ini.
