@@ -1,0 +1,10 @@
+Hololearn
+
+Adapted from the local Java Servlet/JSP project Hololearn-servlet-main/ServletLogin.
+The original Home.jsp and other pages credit https://github.com/Ifarra.
+The following existing assets are retained unchanged: parabg.png, Math.webp,
+Science.webp, Physics.webp, History1.jpeg, favicon-32x32.png.
+
+No LICENSE file or Git remote was present in the inspected local source.
+No new license grant or ownership claim for original code or assets is made here.
+Dependencies retain their respective licenses distributed with their packages.
