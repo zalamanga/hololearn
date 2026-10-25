@@ -100,6 +100,8 @@ compose.yaml                        aplikasi dan MySQL
 
 `/health` memeriksa koneksi database dan mengembalikan 200 atau 503. Gunakan endpoint ini untuk memeriksa kesiapan, bukan sebagai halaman pengguna.
 
+[Alur kode dan diagram](docs/CODE_FLOW.md) menghubungkan route, pemeriksaan peran, JSP, repository, serta batas transaksi masing-masing operasi.
+
 ## Batas penggunaan dan perubahan teknis
 
 Ini aplikasi latihan untuk dijalankan lokal. Gunakan data contoh. Antarmuka Tentang menjelaskan data yang disimpan dan siapa yang dapat mengelolanya. Penerapan untuk pengguna publik masih memerlukan HTTPS, konfigurasi cookie Secure pada reverse proxy, pembatasan percobaan login, kebijakan retensi/backup, pemantauan, dan peninjauan operasional.
